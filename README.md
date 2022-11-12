@@ -20,6 +20,7 @@ My responsibilities
     </p>
 </div>
 <p>Continuum is a studet association at the University of Wrocław that focuses on rovers</p>
+
 * Gained experience in developing with ROS (Robot Operating System)
 * Took an active part in the development of the Aleph 1 and Aleph 2 mars rover prototypes
 * Represented the team on the ERC remote competitions in 2021 and 2020
