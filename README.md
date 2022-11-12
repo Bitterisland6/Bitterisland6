@@ -2,8 +2,6 @@
     <img src="/img/css_in_readme.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
-## Hi there 👋
-
 <div><img class="logo" src="./img/LeoRover.png" width="100" height="50" float="right"/> <p class="logo_name"><h4>ROS developer / Software Engineer</h4></p>
 </div>
 <p class="description">Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.</P>

@@ -19,6 +19,7 @@
                 }
 
                 h2 {
+                    font-size: 1.5rem;
                     justify-content: center;
                     color: red;
                     animation: mymove 2s infinite;
@@ -34,6 +35,16 @@
                 }
             </style>
             <h2>Hi there 👋</h2>
+            <div>
+                <img class="logo" src="./img/LeoRover.png" width="100" height="50" float="right"/>
+                <p class="logo_name"><h4>ROS developer / Software Engineer</h4></p>
+            </div>
+            <p class="description">Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.</P>
+            My responsibilities:
+            - integrating additional modules into the rover
+            - creating systems for custom usage of the rover
+            - developing software running on the rover
+            <br><br>
         </div>
     </foreignObject>
 </svg>
