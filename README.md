@@ -1,11 +1,30 @@
-### Hi there 👋
+<style>
+p.logo_name {
+    display: flex;
+    align-items: center;
+    
+}
 
-#### ROS developer / Software Engineer at Leo Rover!
-Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.
+img.logo {
+    float: left;
+    margin-right: 20px;
+}
+
+p.description {
+    margin-top: 20px;
+    clear: both;
+}
+</style>
+## Hi there 👋
+
+<div><img class="logo" src="./img/LeoRover.png" width="100" height="50" float="right"/> <p class="logo_name"><h4>ROS developer / Software Engineer</h4></p>
+</div>
+<p class="description">Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.</P>
 My responsibilities:
 - integrating additional modules into the rover
 - creating systems for custom usage of the rover
 - developing software running on the rover
+<br><br>
 
 #### Continuum Rover Team
 Continuum is a studet association at the University of Wrocław that focuses on rovers
