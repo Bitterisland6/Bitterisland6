@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/img/css_in_readme.svg" width="400" height="400" alt="css-in-readme">
+    <img src="./img/css_in_readme.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 <div><img class="logo" src="./img/LeoRover.png" width="100" height="50" float="right"/> <p class="logo_name"><h4>ROS developer / Software Engineer</h4></p>

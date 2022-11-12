@@ -40,10 +40,12 @@
                 <p class="logo_name"><h4>ROS developer / Software Engineer</h4></p>
             </div>
             <p class="description">Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.</P>
-            My responsibilities:
-            - integrating additional modules into the rover
-            - creating systems for custom usage of the rover
-            - developing software running on the rover
+            <h5>My responsibilities:<h5>
+            <ul>
+                <li>integrating additional modules into the rover</l1>
+                <li>creating systems for custom usage of the rover</li>
+                <li>developing software running on the rover</li>
+            </ul>
             <br><br>
         </div>
     </foreignObject>
