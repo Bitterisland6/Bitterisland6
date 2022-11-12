@@ -16,10 +16,9 @@ My responsibilities
 <div>
     <img src="./img/Continuum.png" width="100" height="50"/> 
     <p>
-        <h4>Continuum Rover Team</h4>
+        <h4>Continuum Rover Team - a studet association at the University of Wrocław that focuses on rovers</h4>
     </p>
 </div>
-<p>Continuum is a studet association at the University of Wrocław that focuses on rovers</p>
 
 * Gained experience in developing with ROS (Robot Operating System)
 * Took an active part in the development of the Aleph 1 and Aleph 2 mars rover prototypes
@@ -101,7 +100,7 @@ My responsibilities
         </td>
     </tr>
 </table>
-
+<br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bitterisland6&" alt="bitterisland6" /></p>
 <br>
 <p align="center">
