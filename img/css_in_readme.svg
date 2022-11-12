@@ -1,28 +1,14 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="1000" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 400 50" width="400" height="50" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                p.logo_name {
-                    display: flex;
-                    align-items: center;
-
-                }
-
-                img.logo {
-                    float: left;
-                    margin-right: 20px;
-                }
-
-                p.description {
-                    margin-top: 20px;
-                    clear: both;
-                }
-
                 h2 {
                     font-size: 1.5rem;
                     justify-content: center;
                     color: red;
                     animation: mymove 2s infinite;
+                    width: 100%;
+                    height: 100%;
                 }
             
                 @keyframes mymove {
@@ -35,18 +21,6 @@
                 }
             </style>
             <h2>Hi there 👋</h2>
-            <div>
-                <img class="logo" src="./img/LeoRover.png" width="100" height="50" float="right"/>
-                <p class="logo_name"><h4>ROS developer / Software Engineer</h4></p>
-            </div>
-            <p class="description">Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.</P>
-            <h5>My responsibilities:<h5>
-            <ul>
-                <li>integrating additional modules into the rover</l1>
-                <li>creating systems for custom usage of the rover</li>
-                <li>developing software running on the rover</li>
-            </ul>
-            <br><br>
         </div>
     </foreignObject>
 </svg>

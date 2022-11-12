@@ -1,10 +1,15 @@
 <div align="center">
-    <img src="./img/css_in_readme.svg" width="400" height="400" alt="css-in-readme">
+    <img src="./img/css_in_readme.svg" width="400" height="50" alt="css-in-readme">
 </div>
 
-<div><img class="logo" src="./img/LeoRover.png" width="100" height="50" float="right"/> <p class="logo_name"><h4>ROS developer / Software Engineer</h4></p>
+<!-- ### Hi there 👋 -->
+<div>
+    <img style="float: left; margin-right: 20px; margin-bottom: 10px;"src="./img/LeoRover.png" width="100" height="50" float="right"/> 
+    <p style="display: flex; align-items: center;">
+        <h4>ROS developer / Software Engineer</h4>
+    </p>
 </div>
-<p class="description">Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.</P>
+<p style="clear: both">Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.</P>
 My responsibilities:
 - integrating additional modules into the rover
 - creating systems for custom usage of the rover
@@ -95,7 +100,7 @@ Continuum is a studet association at the University of Wrocław that focuses on 
 </table>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bitterisland6&" alt="bitterisland6" /></p>
-
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/" target="blank">
         <img src="https://img.shields.io/badge/-LinkedIn-5c5c5c?&logo=Linkedin&?logoColor=white&link=https://www.linkedin.com"/>
