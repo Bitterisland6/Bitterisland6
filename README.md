@@ -1,20 +1,7 @@
-<style>
-p.logo_name {
-    display: flex;
-    align-items: center;
-    
-}
+<div align="center">
+    <img src="/img/css_in_readme.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
-img.logo {
-    float: left;
-    margin-right: 20px;
-}
-
-p.description {
-    margin-top: 20px;
-    clear: both;
-}
-</style>
 ## Hi there 👋
 
 <div><img class="logo" src="./img/LeoRover.png" width="100" height="50" float="right"/> <p class="logo_name"><h4>ROS developer / Software Engineer</h4></p>
