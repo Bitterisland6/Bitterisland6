@@ -1,23 +1,25 @@
-<div align="center">
-    <img src="./img/css_in_readme.svg" width="400" height="50" alt="css-in-readme">
-</div>
-
-<!-- ### Hi there 👋 -->
+## Hi there 👋
 <div>
-    <img style="float: left; margin-right: 20px; margin-bottom: 10px;"src="./img/LeoRover.png" width="100" height="50" float="right"/> 
-    <p style="display: flex; align-items: center;">
+    <img src="./img/LeoRover.png" width="100" height="50"/> 
+    <p>
         <h4>ROS developer / Software Engineer</h4>
     </p>
 </div>
-<p style="clear: both">Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.</P>
-My responsibilities:
-- integrating additional modules into the rover
-- creating systems for custom usage of the rover
-- developing software running on the rover
+<p>Leo Rover is a stable mobile robot you can deploy outdoors as it’s watertight and built tough enough for an extreme environment.</P>
+My responsibilities
+
+* integrating additional modules into the rover
+* creating systems for custom usage of the rover
+* developing software running on the rover
 <br><br>
 
-#### Continuum Rover Team
-Continuum is a studet association at the University of Wrocław that focuses on rovers
+<div>
+    <img src="./img/Continuum.png" width="100" height="50"/> 
+    <p>
+        <h4>Continuum Rover Team</h4>
+    </p>
+</div>
+<p>Continuum is a studet association at the University of Wrocław that focuses on rovers</p>
 * Gained experience in developing with ROS (Robot Operating System)
 * Took an active part in the development of the Aleph 1 and Aleph 2 mars rover prototypes
 * Represented the team on the ERC remote competitions in 2021 and 2020
