@@ -104,7 +104,7 @@ My responsibilities
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bitterisland6&" alt="bitterisland6" /></p>
 <br>
 <p align="center">
-  <a href="www.linkedin.com/in/bitterisland6" target="blank">
+  <a href="https://www.linkedin.com/in/bitterisland6" target="blank">
         <img src="https://img.shields.io/badge/-LinkedIn-5c5c5c?&logo=Linkedin&?logoColor=white&link=https://www.linkedin.com"/>
   </a>
 </p>
